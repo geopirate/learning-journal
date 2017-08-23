@@ -6,7 +6,7 @@
 
 CRUD command    | HTTP command
 ----------------|------------------------------
-Create          | POST $.post()
+Create(Insert)  | POST $.post()
 Read            | GET $.get() $.getJSON()
 Update          | PUT (PATCH is the old word)
 Destroy         | DELETE
