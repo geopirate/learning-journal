@@ -1,4 +1,4 @@
-<h1># LJ Code 301 - Day 7</h1>
+<h1># LJ Code 301 - Day 8</h1>
 
 <p>Yesterday we got into Node so we're running things on a real web server now instead of just live-server</p>
 
